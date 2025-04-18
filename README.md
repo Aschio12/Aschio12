@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Aschalew
 
-I'm a **Full Stack Web Developer**, **UI/UX Designer**, and passionate **Competitive Programmer** and **Mobile app developer** who loves building smooth user experiences and solving complex problems.
+I'm a **Full Stack Web Developer**, **UI/UX Designer**,passionate **Competitive Programmer** and **Mobile app developer** who loves building smooth user experiences and solving complex problems.
 
 🔧 I specialize in:
 - Developing scalable full-stack web & mobile applications
