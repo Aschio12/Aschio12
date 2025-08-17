@@ -1,17 +1,27 @@
 # 👋 Hi there! I'm Aschalew
 
-I'm a **Full Stack Web Developer**, **UI/UX Designer**,passionate **Competitive Programmer** and **Mobile app developer** who loves building smooth user experiences and solving complex problems.
+I'm a **Full Stack/MERN Web Developer**,**Mobile app developer**, **UI/UX Designer**,**Competitive Programmer** who loves building smooth user experiences and solving complex problems.
 
 🔧 I specialize in:
 - Developing scalable full-stack web & mobile applications
 - Designing intuitive, user-friendly interfaces
 - Writing efficient, clean, and optimized code for real-world problems
 
-🚀 Currently working with:
+🌱 **Currently exploring:**  
+- 🏆 Competitive Programming  
+- 🤖 Artificial Intelligence  
+
+💻 **What I’m focusing on right now:**  
+- Sharpening my problem-solving skills  
+- Diving deeper into AI fundamentals and projects  
+
+🚀 I am working with:
 - React, Node.js, Express, MongoDB, PostgreSQL
 - Flutter for cross-platform mobile apps
 - Figma, Adobe XD for UI/UX prototyping
+- python, for computative programming
 
+✨I enjoy combining logic with creativity in code
 📈 Always learning, building, and pushing boundaries!
 
 ---
