@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Aschalew
 
-I'm a **Full Stack/MERN Web Developer**,**Mobile app developer**, **UI/UX Designer**,**Competitive Programmer** who loves building smooth user experiences and solving complex problems.
+I'm a **Full Stack || MERN Web Developer**,**Mobile app developer**, **UI/UX Designer**,**Competitive Programmer** who loves building smooth user experiences and solving complex problems.
 
 🔧 I specialize in:
 - Developing scalable full-stack web & mobile applications
