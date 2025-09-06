@@ -3,7 +3,7 @@
 # 👋 Hi there! I'm **Aschalew** 
 ### 🚀 Full Stack Developer | 📱 Mobile App Developer | 🎨 UI/UX Designer | 💡 Problem Solver
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Mobile+App+Developer;UI%2FUX+Designer;Competitive+Programmer;AI+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF,FFAA00,FF6B6B,4ECDC4,45B7D1&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Mobile+App+Developer;UI%2FUX+Designer;Competitive+Programmer;AI+Enthusiast;Building+Digital+Experiences" alt="Typing SVG" />
 
 </div>
 
@@ -19,7 +19,7 @@
 
 ## 🚀 **About Me**
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 🎯 **Full Stack MERN Developer** with a passion for building scalable, user-centric applications  
 📱 **Mobile App Developer** specializing in cross-platform Flutter development  
@@ -50,32 +50,33 @@
 
 <div align="center">
 
-### **Frontend Technologies**
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,angular,vue" alt="Frontend Technologies"/>
+### 🌟 **My Technology Arsenal** 🌟
 
-### **Backend Technologies**
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" alt="Backend Technologies"/>
-
-### **Databases**
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,supabase,mysql,firebase,redis" alt="Databases"/>
-
-### **Mobile Development**
-<img src="https://skillicons.dev/icons?i=flutter,dart,react" alt="Mobile Development"/>
-
-### **Programming Languages**
-<img src="https://skillicons.dev/icons?i=python,java,cpp,go" alt="Programming Languages"/>
-
-### **Styling & UI Frameworks**
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui,sass" alt="Styling & UI Frameworks"/>
-
-### **Tools & Platforms**
-<img src="https://skillicons.dev/icons?i=git,docker,aws,vercel,netlify,heroku" alt="Tools & Platforms"/>
-
-### **Design Tools**
-<img src="https://skillicons.dev/icons?i=figma,xd,photoshop" alt="Design Tools"/>
-
-### **Development Tools**
-<img src="https://skillicons.dev/icons?i=vscode,vite,webpack,postman" alt="Development Tools"/>
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+</p>
 
 </div>
 
@@ -83,33 +84,37 @@
 
 <br>
 
-## 📊 **GitHub Analytics**
+## 📈 **GitHub Performance Hub**
 
 <div align="center">
 
-### 📈 **Performance Overview**
+### 🏆 **Stats & Achievements Overview**
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aschio12&theme=radical" alt="Profile Summary"/>
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=Aschio12&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&border_color=00d9ff" width="100%" alt="GitHub Stats"/>
+</td>
+<td align="center" width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aschio12&theme=radical&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ffaa00&currStreakLabel=ffffff&border=00d9ff" width="100%" alt="GitHub Streak"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
 
-<br><br>
+### 💻 **Top Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-45.2%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-23.8%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-15.4%25-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-8.9%25-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-6.7%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aschio12&theme=radical" alt="Top Languages by Repo"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aschio12&theme=radical" alt="Top Languages by Commits"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aschio12&theme=radical" alt="Stats"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aschio12&theme=radical&utcOffset=8" alt="Productive Time"/>
-
-</div>
-
-<br>
-
-## 🏆 **GitHub Achievements**
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aschio12&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=7" alt="GitHub Trophies"/>
+</td>
+<td align="center" width="50%">
+<img src="https://github-profile-trophy.vercel.app/?username=Aschio12&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=3&column=2&title_color=00d9ff&text_color=ffffff&icon_color=ffaa00" width="100%" alt="Achievements"/>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -145,7 +150,7 @@
 
 ### ✍️ **Random Dev Quote**
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote"/>
 
 </div>
 
@@ -162,36 +167,27 @@
 
 <br>
 
-## 📈 **Contribution Activity**
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aschio12&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" alt="Contribution Graph"/>
-
-</div>
-
----
-
-<br>
-
 <div align="center">
 
 ### 🎉 **Fun Facts About Me:**
-- 🌟 I debug with `console.log()` and I'm not ashamed
-- ☕ My code runs on coffee and determination  
-- 🎨 I believe every pixel matters in UI design
-- 🚀 Always excited about the next big tech breakthrough
-- 🎯 My goal: Write code that changes the world, one function at a time
 
-<br>
+```javascript
+const aschalew = {
+    debugMethod: "console.log() and I'm proud of it! 💪",
+    fuelSource: "Coffee ☕ + Determination 🚀",
+    designPhilosophy: "Every pixel matters in UI design 🎨",
+    techExcitement: "Always buzzing about the next breakthrough! ⚡",
+    lifeGoal: "Write code that changes the world, one function at a time 🌍"
+};
+```
 
 ### 🔥 **Current Mood:**
 ```javascript
-const aschalew = {
-  status: "Coding",
-  currentFocus: ["AI Projects", "MERN Stack", "Flutter Apps"],
-  challenge: "Building the next big thing",
-  funFact: "I speak fluent JavaScript and dream in React components"
+const currentStatus = {
+    status: "🔥 Coding Mode Activated",
+    currentFocus: ["AI Projects", "MERN Stack", "Flutter Apps"],
+    todaysChallenge: "Building the next big thing 🚀",
+    funFact: "I dream in React components and speak fluent JavaScript 💭"
 };
 ```
 
@@ -201,11 +197,13 @@ const aschalew = {
 
 <br>
 
+</div>
+
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=50&fontColor=fff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,12,18&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=50&fontColor=00d9ff&animation=twinkling"/>
 
 <br>
 
@@ -213,7 +211,7 @@ const aschalew = {
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Aschio12&style=for-the-badge&color=FF6EC7&label=Profile+Views" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Aschio12&style=for-the-badge&color=00d9ff&label=Profile+Views" alt="Profile Views"/>
 
 <br><br>
 
