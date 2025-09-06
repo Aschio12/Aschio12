@@ -203,20 +203,22 @@ const aschalew = {
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=120&section=footer&animation=fadeIn"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=50&fontColor=fff&animation=twinkling"/>
 
 <br>
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=Aschio12&icon=2&color=12)](https://visitcount.itsvg.in)
+### 🚀 **"Code. Create. Innovate. Repeat."** 🚀
 
-</div>
+<br>
 
----
+<img src="https://komarev.com/ghpvc/?username=Aschio12&style=for-the-badge&color=FF6EC7&label=Profile+Views" alt="Profile Views"/>
 
-<div align="center">
-  
-**Made with ❤️ and lots of ☕**
+<br><br>
 
-*Thank you for visiting my profile! Have a great day! 🌟*
+**✨ Made with ❤️, lots of ☕, and countless lines of code ✨**
+
+*Thank you for exploring my digital universe! Let's build something amazing together! 🌟*
 
 </div>
