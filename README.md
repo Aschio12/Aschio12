@@ -1,7 +1,7 @@
 <div align="center">
   
 # <span style="background: linear-gradient(45deg, #00d9ff, #ff6b6b, #4ecdc4, #ffaa00); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 3.5em;">👋 Hi there! I'm **Aschalew**</span>
-### <span style="color: #00d9ff; text-shadow: 0 0 10px rgba(0, 217, 255, 0.8);">⚡ Full Stack Developer</span> | <span style="color: #ff6b6b; text-shadow: 0 0 10px rgba(255, 107, 107, 0.8);">📱 Mobile App Developer</span> | <span style="color: #4ecdc4; text-shadow: 0 0 10px rgba(78, 205, 196, 0.8);">🎨 UI/UX Designer</span> | <span style="color: #ffaa00; text-shadow: 0 0 10px rgba(255, 170, 0, 0.8);">💡 Problem Solver</span>
+### <span style="color: #00d9ff; text-shadow: 0 0 10px rgba(0, 217, 255, 0.8);">⚡ Full Stack Developer</span> | <span style="color: #ff6b6b; text-shadow: 0 0 10px rgba(255, 107, 107, 0.8);">📱 Mobile App Developer</span> | <span style="color: #4ecdc4; text-shadow: 0 0 10px rgba(78, 205, 196, 0.8);">🎨 UI/UX Designer</span> | <span style="color: #ffaa00; text-shadow: 0 0 10px rgba(255, 170, 0, 0.8);">💡 Competitive Programmer</span>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=36&pause=400&color=00D9FF,FFAA00,FF6B6B,4ECDC4,45B7D1,9B59B6&center=true&vCenter=true&width=800&lines=🔥+Full+Stack+MERN+Developer;📱+Mobile+App+Developer;🎨+UI%2FUX+Designer;⚡+Competitive+Programmer;🤖+AI+Enthusiast;💻+Building+Digital+Experiences" alt="Typing SVG" />
 
@@ -19,7 +19,7 @@
 
 ## <span style="background: linear-gradient(90deg, #00d9ff, #4ecdc4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 2.2em;">⚡ About Me</span>
 
-<img align="right" alt="Epic Coding Animation" width="550" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" style="border-radius: 25px; box-shadow: 0 0 40px rgba(0, 217, 255, 0.8), 0 0 80px rgba(255, 170, 0, 0.6), 0 0 120px rgba(255, 107, 107, 0.4), inset 0 0 60px rgba(78, 205, 196, 0.3); border: 4px solid transparent; background: linear-gradient(45deg, #0a0a0a, #1a1a2e, #16213e) padding-box, linear-gradient(45deg, #00d9ff, #ff6b6b, #4ecdc4, #ffaa00, #9b59b6) border-box; filter: brightness(1.3) contrast(1.4) saturate(1.6) hue-rotate(10deg) drop-shadow(0 10px 30px rgba(0, 217, 255, 0.4)); transform: perspective(1200px) rotateY(-8deg) rotateX(2deg) scale(1.02);"/>
+<img align="right" alt="Epic Coding Animation" width="550" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 <span style="color: #00d9ff; font-size: 1.1em;">🎯</span> **<span style="color: #00d9ff; text-shadow: 0 0 10px rgba(0, 217, 255, 0.8);">Full Stack MERN Developer</span>** with a passion for building scalable, user-centric applications  
 <span style="color: #ff6b6b; font-size: 1.1em;">📱</span> **<span style="color: #ff6b6b; text-shadow: 0 0 10px rgba(255, 107, 107, 0.8);">Mobile App Developer</span>** specializing in cross-platform Flutter development  
@@ -146,8 +146,6 @@
 
 <div align="center">
 
-### <span style="background: linear-gradient(45deg, #00d9ff, #4ecdc4, #ffaa00); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 1.5em; text-shadow: 0 0 20px rgba(0, 217, 255, 0.5);">🎨 "Code is like humor. When you have to explain it, it's bad."</span>
-*<span style="color: #9b59b6; text-shadow: 0 0 10px rgba(155, 89, 182, 0.6);">— Cory House</span>*
 
 </div>
 
