@@ -1,81 +1,126 @@
 <div align="center">
   
-# 👋 Hi there! I'm **Aschalew** 
-### 🚀 Full Stack Developer | 📱 Mobile App Developer | 🎨 UI/UX Designer | 💡 Problem Solver
+# <span style="background: linear-gradient(45deg, #00d9ff, #ff6b6b, #4ecdc4, #ffaa00); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 3.5em;">👋 Hi there! I'm **Aschalew**</span>
+### <span style="color: #00d9ff; text-shadow: 0 0 10px rgba(0, 217, 255, 0.8);">🚀 Full Stack Developer</span> | <span style="color: #ff6b6b; text-shadow: 0 0 10px rgba(255, 107, 107, 0.8);">📱 Mobile App Developer</span> | <span style="color: #4ecdc4; text-shadow: 0 0 10px rgba(78, 205, 196, 0.8);">🎨 UI/UX Designer</span> | <span style="color: #ffaa00; text-shadow: 0 0 10px rgba(255, 170, 0, 0.8);">💡 Problem Solver</span>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=500&color=00D9FF,FFAA00,FF6B6B,4ECDC4,45B7D1&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Mobile+App+Developer;UI%2FUX+Designer;Competitive+Programmer;AI+Enthusiast;Building+Digital+Experiences" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=36&pause=400&color=00D9FF,FFAA00,FF6B6B,4ECDC4,45B7D1,9B59B6&center=true&vCenter=true&width=800&lines=🔥+Full+Stack+MERN+Developer;📱+Mobile+App+Developer;🎨+UI%2FUX+Designer;⚡+Competitive+Programmer;🤖+AI+Enthusiast;🚀+Building+Digital+Experiences" alt="Typing SVG" />
 
 </div>
 
 ---
 
-<div align="center">
+<div align="center" style="background: linear-gradient(135deg, rgba(0, 217, 255, 0.1), rgba(255, 170, 0, 0.1)); padding: 20px; border-radius: 15px;">
 
-### 🌟 **Passionate about creating exceptional digital experiences** 🌟
+### <span style="background: linear-gradient(45deg, #ff6b6b, #4ecdc4, #ffaa00); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 1.8em; text-shadow: 0 0 20px rgba(255, 107, 107, 0.5);">🌟 Passionate about creating exceptional digital experiences 🌟</span>
 
 </div>
 
 <br>
 
-## 🚀 **About Me**
+## <span style="background: linear-gradient(90deg, #00d9ff, #4ecdc4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 2.2em;">🚀 About Me</span>
 
-<img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Epic Coding Animation" width="550" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" style="
+  border-radius: 25px; 
+  box-shadow: 
+    0 0 40px rgba(0, 217, 255, 0.8),
+    0 0 80px rgba(255, 170, 0, 0.6),
+    0 0 120px rgba(255, 107, 107, 0.4),
+    inset 0 0 60px rgba(78, 205, 196, 0.3);
+  border: 4px solid transparent;
+  background: 
+    linear-gradient(45deg, #0a0a0a, #1a1a2e, #16213e) padding-box,
+    linear-gradient(45deg, #00d9ff, #ff6b6b, #4ecdc4, #ffaa00, #9b59b6) border-box;
+  filter: 
+    brightness(1.3) 
+    contrast(1.4) 
+    saturate(1.6) 
+    hue-rotate(10deg)
+    drop-shadow(0 10px 30px rgba(0, 217, 255, 0.4));
+  transform: 
+    perspective(1200px) 
+    rotateY(-8deg) 
+    rotateX(2deg)
+    scale(1.02);
+  transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  animation: float 6s ease-in-out infinite, glow 3s ease-in-out infinite alternate;
+"/>
 
-🎯 **Full Stack MERN Developer** with a passion for building scalable, user-centric applications  
-📱 **Mobile App Developer** specializing in cross-platform Flutter development  
-🎨 **UI/UX Designer** who believes great design is invisible  
-🏆 **Competitive Programmer** always pushing the boundaries of problem-solving  
+<style>
+@keyframes float {
+  0%, 100% { transform: perspective(1200px) rotateY(-8deg) rotateX(2deg) scale(1.02) translateY(0px); }
+  50% { transform: perspective(1200px) rotateY(-8deg) rotateX(2deg) scale(1.02) translateY(-10px); }
+}
+@keyframes glow {
+  0% { 
+    box-shadow: 
+      0 0 40px rgba(0, 217, 255, 0.8),
+      0 0 80px rgba(255, 170, 0, 0.6),
+      0 0 120px rgba(255, 107, 107, 0.4);
+  }
+  100% { 
+    box-shadow: 
+      0 0 60px rgba(0, 217, 255, 1),
+      0 0 100px rgba(255, 170, 0, 0.8),
+      0 0 140px rgba(255, 107, 107, 0.6);
+  }
+}
+</style>
 
-### 🔧 **What I Do:**
-- 🌐 Develop **scalable full-stack web & mobile applications**
-- 🎨 Design **intuitive, user-friendly interfaces**
-- ⚡ Write **efficient, clean, and optimized code**
-- 🏗️ Build **real-world solutions** that make a difference
+<span style="color: #00d9ff; font-size: 1.1em;">🎯</span> **<span style="color: #00d9ff; text-shadow: 0 0 10px rgba(0, 217, 255, 0.8);">Full Stack MERN Developer</span>** with a passion for building scalable, user-centric applications  
+<span style="color: #ff6b6b; font-size: 1.1em;">📱</span> **<span style="color: #ff6b6b; text-shadow: 0 0 10px rgba(255, 107, 107, 0.8);">Mobile App Developer</span>** specializing in cross-platform Flutter development  
+<span style="color: #4ecdc4; font-size: 1.1em;">🎨</span> **<span style="color: #4ecdc4; text-shadow: 0 0 10px rgba(78, 205, 196, 0.8);">UI/UX Designer</span>** who believes great design is invisible  
+<span style="color: #ffaa00; font-size: 1.1em;">🏆</span> **<span style="color: #ffaa00; text-shadow: 0 0 10px rgba(255, 170, 0, 0.8);">Competitive Programmer</span>** always pushing the boundaries of problem-solving  
 
-### 🌱 **Currently Exploring:**
-- 🤖 **Artificial Intelligence & Machine Learning**
-- 🏆 **Advanced Competitive Programming**
-- 🚀 **Modern Web Technologies**
+### <span style="background: linear-gradient(90deg, #4ecdc4, #ffaa00); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 1.3em;">🔧 What I Do:</span>
+- <span style="color: #00d9ff;">🌐</span> Develop **<span style="color: #00d9ff; text-shadow: 0 0 8px rgba(0, 217, 255, 0.6);">scalable full-stack web & mobile applications</span>**
+- <span style="color: #ff6b6b;">🎨</span> Design **<span style="color: #ff6b6b; text-shadow: 0 0 8px rgba(255, 107, 107, 0.6);">intuitive, user-friendly interfaces</span>**
+- <span style="color: #4ecdc4;">⚡</span> Write **<span style="color: #4ecdc4; text-shadow: 0 0 8px rgba(78, 205, 196, 0.6);">efficient, clean, and optimized code</span>**
+- <span style="color: #ffaa00;">🏗️</span> Build **<span style="color: #ffaa00; text-shadow: 0 0 8px rgba(255, 170, 0, 0.6);">real-world solutions</span>** that make a difference
 
-### 💻 **Current Focus:**
-- 🧠 Sharpening **problem-solving skills**
-- 🤖 Diving deeper into **AI fundamentals**
-- 📈 Building **impactful projects**
+### <span style="background: linear-gradient(90deg, #ff6b6b, #9b59b6); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 1.3em;">🌱 Currently Exploring:</span>
+- <span style="color: #9b59b6;">🤖</span> **<span style="color: #9b59b6; text-shadow: 0 0 8px rgba(155, 89, 182, 0.6);">Artificial Intelligence & Machine Learning</span>**
+- <span style="color: #ff6b6b;">🏆</span> **<span style="color: #ff6b6b; text-shadow: 0 0 8px rgba(255, 107, 107, 0.6);">Advanced Competitive Programming</span>**
+- <span style="color: #00d9ff;">🚀</span> **<span style="color: #00d9ff; text-shadow: 0 0 8px rgba(0, 217, 255, 0.6);">Modern Web Technologies</span>**
+
+### <span style="background: linear-gradient(90deg, #ffaa00, #00d9ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 1.3em;">💻 Current Focus:</span>
+- <span style="color: #ff6b6b;">🧠</span> Sharpening **<span style="color: #ff6b6b; text-shadow: 0 0 8px rgba(255, 107, 107, 0.6);">problem-solving skills</span>**
+- <span style="color: #9b59b6;">🤖</span> Diving deeper into **<span style="color: #9b59b6; text-shadow: 0 0 8px rgba(155, 89, 182, 0.6);">AI fundamentals</span>**
+- <span style="color: #4ecdc4;">📈</span> Building **<span style="color: #4ecdc4; text-shadow: 0 0 8px rgba(78, 205, 196, 0.6);">impactful projects</span>**
 
 ---
 
 <br>
 
-## 🛠️ **Tech Stack**
+## <span style="background: linear-gradient(135deg, #00d9ff, #ff6b6b, #4ecdc4, #ffaa00); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 2.2em;">🛠️ Tech Stack</span>
 
-<div align="center">
+<div align="center" style="background: linear-gradient(135deg, rgba(0, 217, 255, 0.05), rgba(255, 107, 107, 0.05), rgba(78, 205, 196, 0.05)); padding: 30px; border-radius: 20px; border: 2px solid rgba(0, 217, 255, 0.3);">
 
-### 🌟 **My Technology Arsenal** 🌟
+### <span style="background: linear-gradient(45deg, #00d9ff, #ffaa00, #ff6b6b, #4ecdc4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 1.8em; text-shadow: 0 0 20px rgba(0, 217, 255, 0.5);">🌟 My Technology Arsenal 🌟</span>
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=large"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoSize=large"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoSize=large"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&logoSize=large"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&logoSize=large"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&logoSize=large"/>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&logoSize=large"/>
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white&logoSize=large"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoSize=large"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&logoSize=large"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoSize=large"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&logoSize=large"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=large"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&logoSize=large"/>
-<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white&logoSize=large"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&logoSize=large"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&logoSize=large"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&logoSize=large"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&logoSize=large"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&logoSize=large"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&logoSize=large"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&logoSize=large"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&logoSize=large"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="filter: drop-shadow(0 4px 8px rgba(227, 79, 38, 0.4));"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="filter: drop-shadow(0 4px 8px rgba(21, 114, 182, 0.4));"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="filter: drop-shadow(0 4px 8px rgba(247, 223, 30, 0.4));"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="filter: drop-shadow(0 4px 8px rgba(0, 122, 204, 0.4));"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="filter: drop-shadow(0 4px 8px rgba(97, 218, 251, 0.4));"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" style="filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.4));"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" style="filter: drop-shadow(0 4px 8px rgba(67, 133, 61, 0.4));"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" style="filter: drop-shadow(0 4px 8px rgba(64, 77, 89, 0.4));"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="filter: drop-shadow(0 4px 8px rgba(55, 118, 171, 0.4));"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" style="filter: drop-shadow(0 4px 8px rgba(237, 139, 0, 0.4));"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="filter: drop-shadow(0 4px 8px rgba(0, 89, 156, 0.4));"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" style="filter: drop-shadow(0 4px 8px rgba(78, 169, 75, 0.4));"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" style="filter: drop-shadow(0 4px 8px rgba(49, 97, 146, 0.4));"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" style="filter: drop-shadow(0 4px 8px rgba(62, 207, 142, 0.4));"/>
+<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" style="filter: drop-shadow(0 4px 8px rgba(3, 155, 229, 0.4));"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" style="filter: drop-shadow(0 4px 8px rgba(2, 86, 155, 0.4));"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" style="filter: drop-shadow(0 4px 8px rgba(1, 117, 194, 0.4));"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" style="filter: drop-shadow(0 4px 8px rgba(56, 178, 172, 0.4));"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" style="filter: drop-shadow(0 4px 8px rgba(240, 80, 50, 0.4));"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" style="filter: drop-shadow(0 4px 8px rgba(36, 150, 237, 0.4));"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" style="filter: drop-shadow(0 4px 8px rgba(35, 47, 62, 0.4));"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" style="filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.4));"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="filter: drop-shadow(0 4px 8px rgba(242, 78, 30, 0.4));"/>
 </p>
 
 </div>
@@ -84,37 +129,25 @@
 
 <br>
 
-## 📈 **GitHub Performance Hub**
+## <span style="background: linear-gradient(135deg, #ff6b6b, #4ecdc4, #ffaa00); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 2.2em;">📈 GitHub Performance Hub</span>
 
-<div align="center">
+<div align="center" style="background: linear-gradient(135deg, rgba(0, 217, 255, 0.08), rgba(255, 107, 107, 0.08)); padding: 25px; border-radius: 20px; border: 2px solid rgba(0, 217, 255, 0.3);">
 
-### 🏆 **Stats & Achievements Overview**
+### <span style="background: linear-gradient(45deg, #00d9ff, #ff6b6b, #4ecdc4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 1.6em;">📊 Statistics Overview</span>
 
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Aschio12&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&border_color=00d9ff" width="100%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aschio12&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&border_color=00d9ff" width="100%" alt="GitHub Stats" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0, 217, 255, 0.3);"/>
 </td>
 <td align="center" width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aschio12&theme=radical&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ffaa00&currStreakLabel=ffffff&border=00d9ff" width="100%" alt="GitHub Streak"/>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### 💻 **Top Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-45.2%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-23.8%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-15.4%25-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-8.9%25-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-6.7%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-</td>
-<td align="center" width="50%">
-<img src="https://github-profile-trophy.vercel.app/?username=Aschio12&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=3&column=2&title_color=00d9ff&text_color=ffffff&icon_color=ffaa00" width="100%" alt="Achievements"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aschio12&theme=radical&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ffaa00&currStreakLabel=ffffff&border=00d9ff" width="100%" alt="GitHub Streak" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(255, 170, 0, 0.3);"/>
 </td>
 </tr>
 </table>
+
+### <span style="background: linear-gradient(90deg, #4ecdc4, #9b59b6); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 1.4em;">💻 Most Used Languages</span>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aschio12&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&border_color=00d9ff" width="50%" alt="Top Languages" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(78, 205, 196, 0.3);"/>
 
 </div>
 
@@ -122,11 +155,11 @@
 
 <br>
 
-## 🌐 **Let's Connect**
+## <span style="background: linear-gradient(135deg, #9b59b6, #00d9ff, #4ecdc4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 2.2em;">🌐 Let's Connect</span>
 
-<div align="center">
+<div align="center" style="background: linear-gradient(135deg, rgba(155, 89, 182, 0.1), rgba(0, 217, 255, 0.1)); padding: 25px; border-radius: 20px;">
 
-### 📫 **Reach out to me:**
+### <span style="background: linear-gradient(45deg, #ff6b6b, #ffaa00, #4ecdc4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 1.4em;">📫 Reach out to me:</span>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aschalew-dereje-1528aa32b/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aschalewdereje8@gmail.com)
@@ -136,7 +169,7 @@
 
 <br>
 
-### 🎯 **Always open to interesting conversations and collaboration opportunities!**
+### <span style="color: #00d9ff; font-size: 1.2em; text-shadow: 0 0 15px rgba(0, 217, 255, 0.8);">🎯 Always open to interesting conversations and collaboration opportunities!</span>
 
 </div>
 
@@ -144,13 +177,13 @@
 
 <br>
 
-## 💡 **Philosophy**
+## <span style="background: linear-gradient(135deg, #ffaa00, #ff6b6b, #9b59b6); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 2.2em;">💡 Philosophy</span>
 
-<div align="center">
+<div align="center" style="background: linear-gradient(135deg, rgba(255, 170, 0, 0.1), rgba(255, 107, 107, 0.1)); padding: 25px; border-radius: 20px;">
 
-### ✍️ **Random Dev Quote**
+### <span style="background: linear-gradient(45deg, #4ecdc4, #9b59b6, #ff6b6b); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 1.4em;">✍️ Random Dev Quote</span>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(155, 89, 182, 0.3);"/>
 
 </div>
 
@@ -158,8 +191,8 @@
 
 <div align="center">
 
-### 🎨 **"Code is like humor. When you have to explain it, it's bad."**
-*— Cory House*
+### <span style="background: linear-gradient(45deg, #00d9ff, #4ecdc4, #ffaa00); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 1.5em; text-shadow: 0 0 20px rgba(0, 217, 255, 0.5);">🎨 "Code is like humor. When you have to explain it, it's bad."</span>
+*<span style="color: #9b59b6; text-shadow: 0 0 10px rgba(155, 89, 182, 0.6);">— Cory House</span>*
 
 </div>
 
