@@ -21,10 +21,10 @@
 
 <img align="right" alt="Epic Coding Animation" width="550" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-<span style="color: #00d9ff; font-size: 1.1em;">🎯</span> **<span style="color: #00d9ff; text-shadow: 0 0 10px rgba(0, 217, 255, 0.8);">Full Stack MERN Developer</span>** with a passion for building scalable, user-centric applications  
-<span style="color: #ff6b6b; font-size: 1.1em;">📱</span> **<span style="color: #ff6b6b; text-shadow: 0 0 10px rgba(255, 107, 107, 0.8);">Mobile App Developer</span>** specializing in cross-platform Flutter development  
-<span style="color: #4ecdc4; font-size: 1.1em;">🎨</span> **<span style="color: #4ecdc4; text-shadow: 0 0 10px rgba(78, 205, 196, 0.8);">UI/UX Designer</span>** who believes great design is invisible  
-<span style="color: #ffaa00; font-size: 1.1em;">🏆</span> **<span style="color: #ffaa00; text-shadow: 0 0 10px rgba(255, 170, 0, 0.8);">Competitive Programmer</span>** always pushing the boundaries of problem-solving  
+<span style="color: #00d9ff; font-size: 1.2em;">🎯</span> **<span style="color: #00d9ff; text-shadow: 0 0 10px rgba(0, 217, 255, 0.8);">Full Stack MERN Developer</span>** with a passion for building scalable, user-centric applications  
+<span style="color: #ff6b6b; font-size: 1.2em;">📱</span> **<span style="color: #ff6b6b; text-shadow: 0 0 10px rgba(255, 107, 107, 0.8);">Mobile App Developer</span>** specializing in cross-platform Flutter development  
+<span style="color: #4ecdc4; font-size: 1.2em;">🎨</span> **<span style="color: #4ecdc4; text-shadow: 0 0 10px rgba(78, 205, 196, 0.8);">UI/UX Designer</span>** who believes great design is invisible  
+<span style="color: #ffaa00; font-size: 1.2em;">🏆</span> **<span style="color: #ffaa00; text-shadow: 0 0 10px rgba(255, 170, 0, 0.8);">Competitive Programmer</span>** always pushing the boundaries of problem-solving  
 
 ### <span style="background: linear-gradient(90deg, #4ecdc4, #ffaa00); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 1.3em;">🔧 What I Do:</span>
 - <span style="color: #00d9ff;">🌐</span> Develop **<span style="color: #00d9ff; text-shadow: 0 0 8px rgba(0, 217, 255, 0.6);">scalable full-stack web & mobile applications</span>**
