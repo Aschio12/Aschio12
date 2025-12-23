@@ -93,9 +93,11 @@
 
 ### 💻 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aschio12&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff&exclude_repo=repo1,repo2&hide=html,css" width="50%" alt="Top Languages"/>
+<!-- <CHANGE> Updated to use GitHub API directly for real-time language statistics -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aschio12&layout=compact&langs_count=15&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff&card_width=500" width="100%" alt="Top Languages"/>
 
-> 
+> **Real-time language statistics fetched directly from your GitHub repositories**
+
 </div>
 
 ---
