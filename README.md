@@ -55,17 +55,14 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-%2300D9FF.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
-![CSS3](https://img.shields.io/badge/CSS3-%2300D9FF.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23FFD700.svg?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-%2300D9FF.svg?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000)
-![React](https://img.shields.io/badge/React-%2300D9FF.svg?style=for-the-badge&logo=react&logoColor=white&labelColor=000000)
-![Next.js](https://img.shields.io/badge/Next.js-%23FF00FF.svg?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000)
-![Node.js](https://img.shields.io/badge/Node.js-%2300D9FF.svg?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000)
-![Express.js](https://img.shields.io/badge/Express.js-%23FF00FF.svg?style=for-the-badge&logo=express&logoColor=white&labelColor=000000)
+  
 ![Python](https://img.shields.io/badge/Python-%2300D9FF.svg?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
-![Java](https://img.shields.io/badge/Java-%23FFD700.svg?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000000)
+![Next.js](https://img.shields.io/badge/Next.js-%23FF00FF.svg?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000)
+![React](https://img.shields.io/badge/React-%2300D9FF.svg?style=for-the-badge&logo=react&logoColor=white&labelColor=000000)
+![Node.js](https://img.shields.io/badge/Node.js-%2300D9FF.svg?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-%2300D9FF.svg?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000)
+![Express.js](https://img.shields.io/badge/Express.js-%23FF00FF.svg?style=for-the-badge&logo=express&logoColor=white&labelColor=000000)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2300D9FF.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=000000)
 ![C++](https://img.shields.io/badge/C++-%2300D9FF.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=000000)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2300D9FF.svg?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23FF00FF.svg?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)
@@ -73,7 +70,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFD700.svg?style=for-the-badge&logo=firebase&logoColor=black&labelColor=000000)
 ![Flutter](https://img.shields.io/badge/Flutter-%2300D9FF.svg?style=for-the-badge&logo=flutter&logoColor=white&labelColor=000000)
 ![Dart](https://img.shields.io/badge/Dart-%23FF00FF.svg?style=for-the-badge&logo=dart&logoColor=white&labelColor=000000)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2300D9FF.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=000000)
 ![Git](https://img.shields.io/badge/Git-%23FF00FF.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
 ![Docker](https://img.shields.io/badge/Docker-%2300D9FF.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000)
 ![AWS](https://img.shields.io/badge/AWS-%23FFD700.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=000000)
