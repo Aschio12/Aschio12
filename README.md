@@ -10,6 +10,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=💻+Full+Stack+MERN+Developer;📱+Cross-Platform+Mobile+Developer;🤖+AI+%26+Machine+Learning+Enthusiast;🏆+Competitive+Programming+Lover;🚀+Building+Next-Gen+Digital+Solutions)](https://git.io/typing-svg)
 
+
 </div>
 
 ---
