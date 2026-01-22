@@ -86,16 +86,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aschio12&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&ring_color=FF00FF" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aschio12&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D9FF&ring=FF00FF&fire=FFD700&currStreakLabel=ffffff" width="49%" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aschio12&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&ring_color=FF00FF" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aschio12&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff" alt="Top Languages" width="48%"/>
 
-### 💻 Most Used Languages
+<br><br>
 
-
-<!-- <CHANGE> Updated to use GitHub API directly for real-time language statistics -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aschio12&layout=compact&langs_count=15&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff&card_width=500" width="100%" alt="Top Languages"/>
-
-> 
+<img src="https://streak-stats.demolab.com/?user=Aschio12&theme=tokyonight&background=0d1117&stroke=00D9FF&ring=FF00FF&fire=FFD700&currStreakLabel=00D9FF" alt="GitHub Streak" width="100%"/>
 
 </div>
 
