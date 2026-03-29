@@ -19,7 +19,7 @@
 
 ## 💡 About Me
 
-**🎯 Full Stack MERN Developer** with a passion for building **scalable, high-performance applications**
+**🎯 Full Stack MERN Developer** with a passion for building **scalable,  high-performance applications**
 
 **📱 Mobile App Developer** specializing in **cross-platform Flutter development**
 
