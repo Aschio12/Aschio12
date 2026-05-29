@@ -3,29 +3,28 @@
 # 👋 Hi there! I'm Aschalew 👨‍💻
 
 <h3 align="center">
-💻 Full Stack MERN Developer | 📱 Cross-Platform Mobile Developer | 🤖 AI & Machine Learning Enthusiast | 🏆 Competitive Programmer 
+💻 Experienced Software Engineer | 📱 Cross-Platform Mobile Developer | 🤖 Human Developer & Applied AI Explorer | 🏆 Competitive Programmer 
 </h3>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=💻+Full+Stack+MERN+Developer;📱+Cross-Platform+Mobile+Developer;🤖+AI+%26+Machine+Learning+Enthusiast;🏆+Competitive+Programming+Lover;🚀+Building+Next-Gen+Digital+Solutions)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=💻+Experienced+Software+Engineer;📱+Cross-Platform+Mobile+Developer;🤖+Human+Developer+%26+Applied+AI+Explorer;🏆+Over+600+DSA+Problems+Solved;🚀+Building+Next-Gen+Digital+Solutions)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<div align="center" fontsize="larger">
+<div align="center">
 
 ## 💡 About Me
 
-**🎯 Full Stack MERN Developer** with a passion for building **scalable,  high-performance applications**
+**🎯 Experienced Software Engineer** specializing in the MERN stack with a passion for building **scalable, high-performance web applications**
 
-**📱 Mobile App Developer** specializing in **cross-platform Flutter development**
+**📱 Mobile App Developer** crafting seamless **cross-platform Flutter experiences**
 
-**🤖 AI Innovator** exploring **cutting-edge artificial intelligence** and **machine learning**
+**🤖 Applied AI Explorer** — a human developer actively diving into **machine learning implementation** and exploring cutting-edge AI
 
-**🏆 Competitive Programmer** constantly pushing **problem-solving boundaries**
+**🏆 Competitive Programmer** trained at **Africa to Silicon Valley (A2SV)**, having mastered Data Structures & Algorithms with **600+ complex problems solved**
 
 
 <br>
@@ -34,19 +33,19 @@
 
 🌐 Develop **scalable full-stack web** & **mobile applications**
 
-🎨 Design **intuitive, pixel-perfect** user interfaces
+🎨 Design **intuitive, liquid-glass, and pixel-perfect** user interfaces
 
-⚡ Write **clean, efficient,** and **maintainable code**
+⚡ Write **clean, simple, and highly optimized code** 
 
-🏗️ Build **real-world solutions** that **drive impact**
+🏗️ Architect **real-world solutions** that bridge algorithmic efficiency with practical software
 
 <br>
 
 ### 🌱 Currently Exploring
 
-🤖 **Artificial Intelligence** & **Deep Learning**
+🤖 **Applied Artificial Intelligence** & **Machine Learning Integration**
 
-🏆 **Advanced Algorithms** & **Data Structures**
+🏆 **Advanced Algorithmic Design** & **Data Structures**
 
 💻 **Next-Gen Web Technologies** & **Cloud Architecture**
 
