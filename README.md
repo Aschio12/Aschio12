@@ -6,6 +6,7 @@
 💻 Experienced Software Engineer | 📱 Cross-Platform Mobile Developer | 🤖 Human Developer & Applied AI Explorer | 🏆 Competitive Programmer 
 </h3>
 
+
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=💻+Experienced+Software+Engineer;📱+Cross-Platform+Mobile+Developer;🤖+Human+Developer+%26+Applied+AI+Explorer;🏆+Over+600+DSA+Problems+Solved;🚀+Building+Next-Gen+Digital+Solutions)](https://git.io/typing-svg)
