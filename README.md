@@ -8,7 +8,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=💻+Experienced+Software+Engineer;📱+Cross-Platform+Mobile+Developer;🤖+Human+Developer+%26+Applied+AI+Explorer;🏆+Over+600+DSA+Problems+Solved;🚀+Building+Next-Gen+Digital+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=💻+Experienced+Software+Engineer;📱+Cross-Platform+Mobile+Developer;🤖+Human+Developer+%26+Applied+AI+Explorer;🏆+Over+650+DSA+Problems+Solved;🚀+Building+Next-Gen+Digital+Solutions)](https://git.io/typing-svg)
 
 </div>
 
@@ -25,7 +25,6 @@
 **🤖 Applied AI Explorer** — a human developer actively diving into **machine learning implementation** and exploring cutting-edge AI
 
 **🏆 Competitive Programmer** trained at **Africa to Silicon Valley (A2SV)**, having mastered Data Structures & Algorithms with **600+ complex problems solved**
-
 
 <br>
 
@@ -106,9 +105,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/aschalew-dereje-1528aa32b/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23FF00FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:aschalewdereje8@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%2300D9FF?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000)](https://twitter.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FFD700?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000)](https://your-portfolio-url.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23FF00FF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://instagram.com/your-handle)
 
 <br>
 
