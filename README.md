@@ -30,7 +30,7 @@
 
 ### 🔧 What I Do
 
-🌐 Develop **scalable full-stack web** & **mobile applications**
+🌐 Develop **scalable full-stack web** & **mobile applications **
 
 🎨 Design **intuitive, liquid-glass, and pixel-perfect** user interfaces
 
