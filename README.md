@@ -108,7 +108,7 @@
 
 <br>
 
-**⚡ Always open to interesting conversations and collaboration opportunities! ⚡**
+**⚡ Always open to interesting conversations and collaboration opportunities! ⚡ **
 
 </div>
 
