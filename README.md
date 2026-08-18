@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi there! I'm Aschalew 👨‍💻
+# 👋 Hi there! I'm Aschalew  👨‍💻
 
 <h3 align="center">
 💻 Experienced Software Engineer | 🤖 AI Engineer | 📱 Full-Stack Developer  | 🏆  Competitive  Programmer  
