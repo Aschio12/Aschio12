@@ -16,7 +16,7 @@
 
 <div align="center">
 
-## 💡 About Me 
+## 💡 About Me  
 
 **🎯 Experienced Software Engineer** specializing in the MERN stack with a passion for building **scalable, high-performance web applications**
 
