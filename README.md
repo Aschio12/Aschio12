@@ -5,7 +5,7 @@
 <h3 align="center"> 
 💻 Experienced Software Engineer | 🤖 AI Engineer | 📱 Full-Stack Developer  | 🏆  Competitive  Programmer    
 </h3>
-
+ 
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=💻+Experienced+Software+Engineer;📱+Cross-Platform+Mobile+Developer;🤖+Human+Developer+%26+Applied+AI+Explorer;🏆+Over+650+DSA+Problems+Solved;🚀+Building+Next-Gen+Digital+Solutions)](https://git.io/typing-svg)
